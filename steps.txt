@@ -1,0 +1,7 @@
+b1: git init
+b2: tạo 1 respositoty 
+b3: git remote add
+b4: thêm sửa xóa
+	git add .
+b5: git commit -m "message"
+b6: git push -u origin master
